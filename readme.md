@@ -20,3 +20,7 @@ When you export your Muse project to HTML, the JS code for the Gestures API will
 ## About
 
 I developed this widget at [Bates Creative](http://batescreative.com). We are currently using it within our process for creating Adobe AEM Mobile articles in Adobe Muse. We are really happy to be able to share it with the community, as we know there's substantial need to bridge the gap between designer-friendly Adobe Muse and developer-friendly AEM Mobile.
+
+### Disclaimer
+
+This code works for our purposes and will continue to evolve, but it may not work with all Muse project setups or meet all functionality needs.
