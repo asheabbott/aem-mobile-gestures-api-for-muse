@@ -24,3 +24,8 @@ I developed this widget at [Bates Creative](http://batescreative.com). We are cu
 ### Disclaimer
 
 This code works for our purposes and will continue to evolve, but it may not work with all Muse project setups or meet all functionality needs.
+
+## Changelog
+
+#v1.2
+Reworked code to trigger navigation toggle on everything except <a>links</a> and <a><span>links</span></a>.
