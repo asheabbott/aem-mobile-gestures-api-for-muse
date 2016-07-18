@@ -28,4 +28,4 @@ This code works for our purposes and will continue to evolve, but it may not wor
 ### Changelog
 
 ####v1.2
-Reworked code to trigger navigation toggle on everything except <a>links</a> and <a><span>links</span></a>.
+Reworked code to trigger navigation toggle on everything except `<a>links</a>` and `<a><span>links</span></a>`.
