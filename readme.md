@@ -29,3 +29,6 @@ This code works for our purposes and will continue to evolve, but it may not wor
 
 ####v1.2
 Reworked code to trigger navigation toggle on everything except `<a>links</a>` and `<a><span>links</span></a>`.
+
+####v1.1
+Changed code to create the div for the onclick event within each .breakpoint div, as creating it within the body element started to break some articles.
