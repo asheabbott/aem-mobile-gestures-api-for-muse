@@ -27,6 +27,9 @@ This code works for our purposes and will continue to evolve, but it may not wor
 
 ### Changelog
 
+####v1.4
+Added functionality to NOT toggle nav when tapping thumbnails for the built in Muse slideshows.
+
 ####v1.3
 Changed code to target #page div, rather than .breakpoint, as .breakpoint does not exist in layouts without breakpoints. Reworked code to remove inline onclick event. Added CSS to the #page div to prevent a color flash on tap.
 
