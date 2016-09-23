@@ -27,6 +27,9 @@ This code works for our purposes and will continue to evolve, but it may not wor
 
 ### Changelog
 
+####v1.5
+Changed the event binding such that if .breakpoint exists, the click (tap) event will trigger on that element. Otherwise, it will trigger on the #page element. This should resolve the inconsistency in functionality that existed on iPhone with some articles. Also added more details to the widget options panel.
+
 ####v1.4
 Added functionality to NOT toggle nav when tapping thumbnails for the built in Muse slideshows.
 
